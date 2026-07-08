@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 230
+slug  : karsa-mobius3-v2
+seal  : ba239d4db04da581ade27a0612556d0015f6ee33be172909eb56edff70d7d710
+prev  : 3c3753ee5c4b36c389eddd7dcce3cfc4cf07c1839b0a3aab8a4aa474481c7e99
+link  : 966c5ba2c8ea0c15e77772c2b2be9149c3b93ce44a767b64b14ed65332b70e16
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
